@@ -9,7 +9,7 @@
     "require": {
         "php": ">=7.1.0",
         "laravel/nova": ">=1.0",
-        "orchestra/testbench": "^3.7"
+        "orchestra/testbench": ">=3.7"
     },
     "autoload": {
         "psr-4": {
