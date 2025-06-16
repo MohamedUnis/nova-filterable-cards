@@ -9,7 +9,8 @@
     "require": {
         "php": ">=7.1.0",
         "laravel/nova": ">=1.0",
-        "orchestra/testbench": ">=3.7"
+        "orchestra/testbench": ">=3.7",
+        "mohamedunis/nova-filterable-cards": "dev-main"
     },
     "autoload": {
         "psr-4": {
